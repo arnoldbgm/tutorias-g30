@@ -1,6 +1,3 @@
-Claro, aquí va la guía actualizada sin encapsulamiento, enfocada en los 3 pilares restantes:
-
----
 
 # 🛠️ Guía de Laboratorio: Programación Orientada a Objetos (POO) en Python
 
