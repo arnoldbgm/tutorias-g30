@@ -6,6 +6,7 @@ Claro, aquí va la guía actualizada sin encapsulamiento, enfocada en los 3 pila
 
 > 💡 **Duración:** 1 hora 30 minutos | **Nivel:** Básico | **Requisito:** Variables, condicionales, bucles
 
+
 La POO te permite **modelar objetos del mundo real** dentro de un programa, agrupando datos y comportamientos en una estructura llamada **clase**.
 
 ---
